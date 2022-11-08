@@ -9,6 +9,7 @@
 =============================================================================
     STRING QUESTIONS
 //  https://github.com/viren-sureja/Love-Babbar-450/blob/master/03_string/08_longest_palindromic_substring.cpp
+// https://practice.geeksforgeeks.org/problems/word-wrap1646/1
 ===========================================================================
 
 Input: s = "cbacdcbc"
