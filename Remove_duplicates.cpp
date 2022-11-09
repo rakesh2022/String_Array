@@ -11,7 +11,8 @@
 //  https://github.com/viren-sureja/Love-Babbar-450/blob/master/03_string/08_longest_palindromic_substring.cpp
 // https://practice.geeksforgeeks.org/problems/word-wrap1646/1
 //   DP  https://practice.geeksforgeeks.org/problems/word-break1352/1
-// Based on KMP;    https://leetcode.com/problems/shortest-palindrome/
+// Based on KMP and refer below solution too;    https://leetcode.com/problems/shortest-palindrome/
+//   https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/discuss/12956/C%2B%2B-Brute-Force-and-KMP
 
 ===========================================================================
 
