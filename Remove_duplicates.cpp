@@ -15,7 +15,9 @@
 //   https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/discuss/12956/C%2B%2B-Brute-Force-and-KMP
 //    https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1
 // not solved    https://github.com/viren-sureja/Love-Babbar-450/blob/master/03_string/23_count_of_no_of_given_string.cpp
+PRACTICE BELOW QUESTION (ONCE SOLVED ONLY) 
 //   https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1    (practice it and most important read properly)
+    //  https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing2704/1   (SOLVE IN SPACE O(N) AND O(1))
 
 ===========================================================================
 
