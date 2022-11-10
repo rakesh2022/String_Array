@@ -13,6 +13,7 @@
 //   DP  https://practice.geeksforgeeks.org/problems/word-break1352/1
 // Based on KMP and refer below solution too;    https://leetcode.com/problems/shortest-palindrome/
 //   https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/discuss/12956/C%2B%2B-Brute-Force-and-KMP
+//    https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1
 
 ===========================================================================
 
